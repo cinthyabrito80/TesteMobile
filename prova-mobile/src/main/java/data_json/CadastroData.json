@@ -1,0 +1,19 @@
+{
+    "dados_pessoais" : {
+        "cpf" : "999.999.999-00",
+        "nome" : "teste01",
+        "sobrenome" : "aaaaa",
+        "genero" : "feminino",
+        "nascimento" : "12/12/90",
+        "celular" : "(11)99999-0000"
+      },
+
+      "dados_endereco" : {
+        "endereco" : "",
+        "numero" : "",
+        "cep" : "",
+        "bairro" : "",
+        "cidade" : "",
+        "estado" : ""
+      }
+}
